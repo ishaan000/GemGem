@@ -1,4 +1,4 @@
-A jewel pattern matching game! Great practice for developers to brush up their python skills with many impressive libraries such as PyGame.
+A jewel pattern matching game! Made using PyGame.
 
 
 KEEP ON MATCHING BEFORE THE TIMER RUNS OUT
